@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohanad AL-NUNU</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img align="right" alt="GIF coding image" width="400" src"https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="GIF coding image" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanad-alnunu&label=Profile%20views&color=0e75b6&style=flat" alt="mohanad-alnunu" /> </p>
 
 - 🔭 I’m currently working on **Some flutter projects**
